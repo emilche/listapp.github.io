@@ -9,7 +9,7 @@ Please note that this information is only gathered if you login. And any content
 ## 1. Information We Collect
 
 ### A. Information You Provide to Us
-*   **Account Information:** When you sign in using Apple or Google, we collect your name and email address to create your account and display your name to users you share lists with.
+*   **Account Information:** When you sign in using Apple or Google, we collect your name and to create your account and display your name to users you share lists with.
 *   **User Content:** We collect the lists, categories, and items you create, including their titles and completion status, to provide the synchronization service.
 *   **Profile Information:** You may choose to set a username, which is stored and displayed to other users in shared lists.
 
