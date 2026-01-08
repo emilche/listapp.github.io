@@ -1,5 +1,3 @@
----
-
 # Privacy Policy for ListApp
 
 **Last updated:** 2026-01-08
