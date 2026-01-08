@@ -110,4 +110,5 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 ## 10. Contact Us
 
-If you have any questions about these Terms, please contact us via our GitHub repository.
+If you have any questions about these Terms, please contact us via our email:
+Emilchristenson@gmail.com
