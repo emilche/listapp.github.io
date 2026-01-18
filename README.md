@@ -1,8 +1,8 @@
-# Privacy Policy for JustList
+# Privacy Policy for AllList
 
 **Last updated:** 2026-01-08
 
-JustList ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by JustList.
+AllList ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by AllList.
 
 Please note that this information is only gathered if you login. And any content of the lists only gets uploaded to the database if you share the list or if you use the cloud symbole to save it to the cloud.
 
@@ -20,7 +20,7 @@ Please note that this information is only gathered if you login. And any content
 ## 2. How We Use Your Information
 
 We use the information we collect to:
-*   Provide, maintain, and improve the JustList service.
+*   Provide, maintain, and improve the AllList service.
 *   Synchronize your lists across multiple devices in real-time.
 *   Enable sharing and collaboration features with other users.
 *   Authenticate your identity and prevent unauthorized access.
@@ -48,7 +48,7 @@ We take reasonable measures to protect your information, including utilizing Fir
 
 ## 7. Children's Privacy
 
-JustList is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13.
+AllList is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13.
 
 ## 8. Changes to This Privacy Policy
 
@@ -61,11 +61,11 @@ Emilchristenson@gmail.com
 
 ---
 
-# Terms of Service for JustList
+# Terms of Service for AllList
 
 **Last updated:** 2026-01-08
 
-Please read these Terms of Service ("Terms") carefully before using the JustList mobile application (the "Service") operated by JustList ("us", "we", or "our").
+Please read these Terms of Service ("Terms") carefully before using the AllList mobile application (the "Service") operated by AllList ("us", "we", or "our").
 
 ## 1. Acceptance of Terms
 
@@ -94,7 +94,7 @@ We may terminate or suspend your account immediately, without prior notice or li
 
 ## 6. Limitation of Liability
 
-In no event shall JustList, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (iii) any content obtained from the Service; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
+In no event shall AllList, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (iii) any content obtained from the Service; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
 
 ## 7. "AS IS" Disclaimer
 
