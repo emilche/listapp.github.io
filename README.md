@@ -1,6 +1,6 @@
 # Privacy Policy for AllList
 
-**Last updated:** 2026-01-08
+**Last updated:** 2026-01-18
 
 AllList ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by AllList.
 
