@@ -1,15 +1,15 @@
-# Privacy Policy for AllList
+# Privacy Policy for ListApp
 
-**Last updated:** 2026-01-18
+**Last updated:** [Current Date]
 
-AllList ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by AllList.
+ListApp ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by ListApp.
 
 Please note that this information is only gathered if you login. And any content of the lists only gets uploaded to the database if you share the list or if you use the cloud symbole to save it to the cloud.
 
 ## 1. Information We Collect
 
 ### A. Information You Provide to Us
-*   **Account Information:** When you sign in using Apple or Google, we collect your name and to create your account and display your name to users you share lists with.
+*   **Account Information:** When you sign in using Apple, we collect your name to create your account and display your name to users you share lists with.
 *   **User Content:** We collect the lists, categories, and items you create, including their titles and completion status, to provide the synchronization service.
 *   **Profile Information:** You may choose to set a username, which is stored and displayed to other users in shared lists.
 
@@ -20,7 +20,7 @@ Please note that this information is only gathered if you login. And any content
 ## 2. How We Use Your Information
 
 We use the information we collect to:
-*   Provide, maintain, and improve the AllList service.
+*   Provide, maintain, and improve the ListApp service.
 *   Synchronize your lists across multiple devices in real-time.
 *   Enable sharing and collaboration features with other users.
 *   Authenticate your identity and prevent unauthorized access.
@@ -38,9 +38,14 @@ For more information on how Google handles data, please review the [Google Priva
 *   **Shared Lists:** If you choose to share a list, your username and the contents of that specific list will be visible to the participants you invite.
 *   **Legal Requirements:** We may disclose your information if required to do so by law or in response to valid requests by public authorities.
 
-## 5. Data Retention
+## 5. Data Retention and Deletion
 
 We retain your personal information and list content for as long as your account is active or as needed to provide you the service. You can delete your lists or items at any time within the app.
+
+You can also choose to delete your account entirely from the settings screen. This action is permanent and will:
+*   Delete all lists that you own. This will remove them for all participants.
+*   Remove you from any shared lists where you are a participant.
+*   Delete your user profile information, including your username and authentication credentials.
 
 ## 6. Security
 
@@ -48,7 +53,7 @@ We take reasonable measures to protect your information, including utilizing Fir
 
 ## 7. Children's Privacy
 
-AllList is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13.
+ListApp is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13.
 
 ## 8. Changes to This Privacy Policy
 
