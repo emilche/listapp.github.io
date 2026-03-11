@@ -1,6 +1,6 @@
 # Privacy Policy for ListApp
 
-**Last updated:** [Current Date]
+**Last updated:** 11-03-2026
 
 ListApp ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by ListApp.
 
